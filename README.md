@@ -1,1 +1,3 @@
-# Password generator
+# Password Generator
+
+Simple django password generator
